@@ -1,6 +1,4 @@
 <a href="https://NeseRihani.io">
-  <img src="https://www.uschamber.com/assets/images/023107_comm_commentary_cyber_oct16_atf_ani.gif" alt="MasterHead" style="width: 1000px; height: 300px;" />
-</a>
 
 
 
