@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neserihani&label=Profile%20views&color=0e75b6&style=flat" alt="neserihani" /> </p>
 
-- 🔭 I’m currently working on **Cybersecurity**
+- 🔭 I’m currently working on **Artificial intelligence**
 
-- 🌱 I’m currently learning **Python, Cybersecurity,Data science,Network**
+- 🌱 I’m currently learning **Python,Artificial intelligence, Cybersecurity,Data science,Network**
 
 - 📫 How to reach me **marahaltalaj1@gmail.com**
 
