@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nese Rihani</h1>
-<h3 align="center">A Computer Engineering student (3)</h3>
+<h3 align="center">A Computer Engineering student (4)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/hpXdHPfFI5wTABdDx9.webp">
 
 
